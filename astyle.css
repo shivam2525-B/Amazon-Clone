@@ -1,0 +1,115 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color: white;
+}
+
+#navbar{
+    background-color: rgb(17, 25, 33);
+    height: 65px;
+    min-width: fit-content;
+    display: flex;
+}
+
+#logo{
+    padding: 12px;
+    height: 40px;
+}
+
+#ll{
+    height: 25px;
+    padding-top: 18px;
+}
+
+#location{
+    font-size: 14px;
+    margin-top: 15px;
+    letter-spacing: 1px;
+    width: 200px;
+    
+}
+
+#location:hover{
+    border: 5px;
+    border-color: white;
+}
+
+#ac{
+    margin-top: 3px;
+    color: rgb(110, 115, 115);
+    background-color: rgb(230, 230, 230);
+    font-size: 14px;
+    padding: 10px;
+    width: 100px;
+    display: flex;
+    text-align: center;
+    height: 16px;
+    border-radius: 7px;
+}
+
+#sss{
+    margin-top: 3px;
+    height: 21px;
+    background-color: orange;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+#search{
+    display: inline-flex;
+    margin-top: 10px;
+    padding-right: 45px;
+}
+
+#ssss{
+    margin-top: 2px;
+    width: 570px;
+    height: 38px;
+    padding: 12px;
+    color: black;
+    border-radius: 7px;
+}
+
+#flag{
+    height: 17px;
+    margin-top: 27px;
+}
+
+#p1{
+    margin-left: 8px;
+    margin-top: 26px;
+}
+
+#hello{
+    margin-left: 30px;
+    width: 130px;
+    margin-top: 14px;
+}
+
+#hello2{
+    margin-left: 30px;
+    width: 80px;
+    margin-top: 14px;
+}
+
+#hl{
+    display: flex;
+    width: 150px;
+}
+
+
+
+#cc{
+    height: 50px;
+    margin-top: 6px;
+    display: flex;
+    width: 80px;
+    padding-right: 0%;
+    margin-right: 0%;
+}
+
+h4{
+    margin-top: 32px;
+    margin-left: 0%;
+    padding-left: 0%;
+}
